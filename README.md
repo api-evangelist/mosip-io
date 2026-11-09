@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MOSIP is a company surfaced via the API Evangelist harvest backlog (source: capability-gaps) and added to the network as a stub for full-pipeline profiling.
-- https://www.mosip.io/
+MOSIP (Modular Open Source Identity Platform) is a digital public good providing open‑source, modular software for national identity systems. Established in 2018, MOSIP enables governments to build secure, inclusive ID infrastructures, offering customizable modules for registration, authentication, and credential issuance. It emphasizes security, privacy, and vendor‑neutrality, supporting deployments across dozens of countries and serving millions of citizens worldwide.
+
+**Areas:** Identity · OpenSource · DigitalPublicGood · Government · Modular
+
+## MOSIP on APIs.io
+
+Everything profiled for MOSIP is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mosip-io/](https://apis.io/providers/mosip-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [MOSIP API](https://apis.io/apis/mosip-io/mosip-io-api/) — MOSIP API as documented publicly: 62 operations. Contract generated from the documentation by API Evangelist (2026-11-09); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PostBlacklistedwordsSearchRequest](https://apis.io/schemas/mosip-io/mosip-io-post-blacklistedwords-search-request/)
+- [PostGendersSearchRequest](https://apis.io/schemas/mosip-io/mosip-io-post-genders-search-request/)
+- [PostHolidaysRequest](https://apis.io/schemas/mosip-io/mosip-io-post-holidays-request/)
+- [PostLocationsRequest](https://apis.io/schemas/mosip-io/mosip-io-post-locations-request/)
+- [PutHolidaysRequest](https://apis.io/schemas/mosip-io/mosip-io-put-holidays-request/)
+- [PutLocationsRequest](https://apis.io/schemas/mosip-io/mosip-io-put-locations-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mosip Io Context](https://apis.io/jsonld/mosip-io/mosip-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MOSIP API Rules](https://apis.io/rules/mosip-io/mosip-io-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MOSIP Domain Security](https://apis.io/security/mosip-io/mosip-io-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mosip.io/)
+- [Documentation](https://docs.mosip.io/1.2.0/)
+- [Getting started](https://docs.mosip.io/1.2.0/readme/collab-getting-started-guide)
+- [Changelog](https://docs.mosip.io/1.2.0/roadmap-and-releases/releases)
+- [Privacy policy](https://www.mosip.io/privacy_policy)
+- [GitHub](https://github.com/mosip)
+
+## API Evangelist rating
+
+**Kin Score 40.2** — developing · rubric 0.27.0 · scored 2026-11-09
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 45.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 16.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 14.7** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mosip-io/](https://apis.io/providers/mosip-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MOSIP: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mosip-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
